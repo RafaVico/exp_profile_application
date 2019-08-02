@@ -11,7 +11,7 @@ This tool can be compiled for Windows PC and GP2X console (and Wiz).
 
 # Updated version
 
-There is a new version with graphics retouched and controller. Anyway, that version is only for windows, this source code can compile for Windows and GP2X.<br>
+There is a new version with graphics retouched and controller. Anyway, that version is only for windows, this source code can compile for Windows and GP2X.<br><br>
 Exp Application 2019<br>
 https://rafavico.itch.io/expapp
 
