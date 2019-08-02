@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1281788629 source:k:\proyectos\gp2x\exp2\src\language.cpp
+	<vector>
+	<string>
+	<fstream>
+	<dirent.h>
+	"../inc/language.h"
+
+1281788566 k:\proyectos\gp2x\exp2\inc\language.h
+
+1283797803 source:k:\proyectos\gp2x\exp2\src\main.cpp
+	<fstream>
+	<vector>
+	<string>
+	<math.h>
+	<sys/stat.h>
+	<sys/ioctl.h>
+	<fcntl.h>
+	<dirent.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	"../inc/structures.h"
+	"../inc/language.h"
+	"../inc/game_experience.h"
+	"../inc/exp.h"
+	<shlobj.h>
+
+1280870698 k:\proyectos\gp2x\exp2\inc\structures.h
+
+1282415965 k:\proyectos\gp2x\exp2\inc\game_experience.h
+
+1282414365 k:\proyectos\gp2x\exp2\inc\exp.h
+
+1281792229 source:d:\proyectos\gp2x\exp2\src\language.cpp
+	<vector>
+	<string>
+	<fstream>
+	<dirent.h>
+	"../inc/language.h"
+
+1281792166 d:\proyectos\gp2x\exp2\inc\language.h
+
+1293369085 source:d:\proyectos\gp2x\exp2\src\main.cpp
+	<fstream>
+	<vector>
+	<string>
+	<math.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<dirent.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	"../inc/structures.h"
+	"../inc/language.h"
+	"../inc/game_experience.h"
+	"../inc/exp.h"
+	<shlobj.h>
+
+1293368599 d:\proyectos\gp2x\exp2\inc\structures.h
+
+1282419565 d:\proyectos\gp2x\exp2\inc\game_experience.h
+
+1282417965 d:\proyectos\gp2x\exp2\inc\exp.h
+
+1281792229 source:c:\users\rafa\documents\github\exp_profile_application\src\language.cpp
+	<vector>
+	<string>
+	<fstream>
+	<dirent.h>
+	"../inc/language.h"
+
+1281792166 c:\users\rafa\documents\github\exp_profile_application\inc\language.h
+
+1564775919 source:c:\users\rafa\documents\github\exp_profile_application\src\main.cpp
+	<fstream>
+	<vector>
+	<string>
+	<math.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<dirent.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	"../inc/structures.h"
+	"../inc/language.h"
+	"../inc/game_experience.h"
+	"../inc/exp.h"
+	<shlobj.h>
+
+1564775644 c:\users\rafa\documents\github\exp_profile_application\inc\structures.h
+
+1282419565 c:\users\rafa\documents\github\exp_profile_application\inc\game_experience.h
+
+1282417965 c:\users\rafa\documents\github\exp_profile_application\inc\exp.h
+
